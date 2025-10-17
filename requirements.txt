@@ -1,0 +1,5 @@
+flask==3.0.3
+huggingface_hub==0.24.6
+nemo_toolkit[asr]==1.25.0
+ffmpeg-python==0.2.0
+vllm==0.4.2

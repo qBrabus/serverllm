@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.env
+.git
+.gitignore
+hf-cache/
+models/
